@@ -1,0 +1,6 @@
+*.pyc
+*.~
+*.temp
+*.txt
+*.csv
+*.html
