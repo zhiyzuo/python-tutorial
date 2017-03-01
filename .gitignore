@@ -5,3 +5,5 @@
 *.csv
 *.html
 *.png
+.DS_Store
+.ipynb_checkpoints
