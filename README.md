@@ -5,9 +5,7 @@ Python Tutorial Series
 
 ___This workshop series is sponsored by [Iowa Social Science Research Center](http://ppc.uiowa.edu/isrc) at the University of Iowa. You can also check out other interesting workshops [here](http://ppc.uiowa.edu/isrc/workshops).___
 
-This is a public repository for [Jupyter notebooks](http://jupyter.org/) with introductory tutorials in different aspects of Python programming. Please star us if you think it is useful: 
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&logo=github&label=Stars)](https://github.com/zhiyzuo/python-tutorial)
- 
+This is a public repository for [Jupyter notebooks](http://jupyter.org/) with introductory tutorials in different aspects of Python programming. Please star us if you think it is useful: <iframe src="https://ghbtns.com/github-btn.html?user=zhiyzuo&repo=python-tutorial&type=star&count=true&" frameborder="0" scrolling="0" width="170px" height="20px"></iframe>
 
 ---
 
