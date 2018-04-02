@@ -1,8 +1,9 @@
 *.pyc
 *.~
+data/
 *.temp
 *.txt
-*.csv
+*keys*.csv
 *.html
 *.png
 .DS_Store
