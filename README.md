@@ -13,7 +13,7 @@ This is a public repository for [Jupyter notebooks](http://jupyter.org/) with in
 
 ### Topics:
 
-_Continuously growing... Last updated 03-03-2018_
+_Continuously growing... Last updated 09-19-2018_
 
 - [Installation and environment setup :wrench:](https://github.com/zhiyzuo/python-tutorial/blob/master/0-Installation-Environment-Setup.ipynb)
 - [Variables, data structures, and control logics :twisted_rightwards_arrows:](https://github.com/zhiyzuo/python-tutorial/blob/master/1-Variables-Data_Structures-Control_Logic.ipynb)
